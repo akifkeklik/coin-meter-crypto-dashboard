@@ -1,6 +1,5 @@
 # 🪙 Gold Arbitrage Panel
 
-**Live Demo:** [https://gold-arbitrage-panel.onrender.com](https://gold-arbitrage-panel.onrender.com)
 
 Gold Arbitrage Panel is a professional financial analysis tool designed to track real-time gold prices and identify arbitrage opportunities. It compares **Gold Certificates (Sertifika)** against **Physical Gold** and calculates the spread to help users make informed investment decisions.
 
